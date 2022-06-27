@@ -1,2 +1,2 @@
-# Jogo-da-Mem-ria-em-javascript
+# Jogo-da-Memória-em-javascript
 
